@@ -14,7 +14,8 @@
 ### Live Link 
     Project Link : [technical-documentation-page]()
 
-## Lets's Connect
-### Social
-    [This is an external link to genome.gov](https://twitter.com/BaesilS)
+---
+## Connect with me:
+
+[Twitter](https://twitter.com/BaesilS) | [Github](https://github.com/wandereskimo)
 
