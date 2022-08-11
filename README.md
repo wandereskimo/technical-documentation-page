@@ -16,5 +16,5 @@
 
 ## Lets's Connect
 ### Social
-    [Twitter](https://twitter.com/home)
+    [This is an external link to genome.gov](https://twitter.com/BaesilS)
 
